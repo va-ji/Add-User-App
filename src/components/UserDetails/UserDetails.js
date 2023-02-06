@@ -12,7 +12,7 @@ const UserDetails = () => {
     ]);
   };
   return (
-    <div className="container">
+    <div>
       <AddUser onGetUserDetails={getUserDetailHandler}></AddUser>
       <UserDataList userDetails={userDetails}></UserDataList>
     </div>

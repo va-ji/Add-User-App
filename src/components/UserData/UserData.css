@@ -1,11 +1,5 @@
-.body {
-  width: 100%;
-  border-color: black;
-  border: 1px solid grey;
-  margin-bottom: 10px;
-}
-
-.body p {
-  width: 100%;
-  padding-left: 10px;
+.users-list {
+  border: 1px solid #ccc;
+  margin: 0.5rem 0;
+  padding: 0.5rem;
 }
