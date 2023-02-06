@@ -1,20 +1,12 @@
-.container {
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  align-items: center;
-  height: 100vh;
-  background-color: #333;
-}
-
 .form-control {
-  width: 50%;
+  width: 100%;
   padding: 1rem;
   color: black;
   text-align: left;
   font-weight: 700;
   border-radius: 12px;
   background-color: white;
+  margin-bottom: 40px;
 }
 
 .form-control input {

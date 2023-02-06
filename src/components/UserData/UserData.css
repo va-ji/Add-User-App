@@ -1,0 +1,11 @@
+.body {
+  width: 100%;
+  border-color: black;
+  border: 1px solid grey;
+  margin-bottom: 10px;
+}
+
+.body p {
+  width: 100%;
+  padding-left: 10px;
+}
